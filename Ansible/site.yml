@@ -1,0 +1,6 @@
+- name: Example playbook
+  hosts: all
+  gather_facts: true
+  tasks:
+    - name: Ping all hosts
+      ansible.builtin.ping:
