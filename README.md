@@ -1,0 +1,1 @@
+# MSPR1-Deploy-Odoo
